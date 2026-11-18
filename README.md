@@ -330,7 +330,7 @@ Through this project, the following concepts were explored:
 
 ## Author
 
-**Nishant**
+**Nishad Shaikh**
 
 Real-Time Vision Event Processing System
 
